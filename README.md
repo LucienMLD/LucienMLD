@@ -7,6 +7,7 @@
 
 [nord_repo]: https://github-readme-stats.vercel.app/api/pin/?username=betagouv&repo=conseillers-entreprises&cache_seconds=86400&theme=transparent
 [nord_repo2]: https://github-readme-stats.vercel.app/api/pin/?username=numerique-gouv&repo=numerique-gouv-cms&cache_seconds=86400&theme=transparent
+[nord_repo3]: https://github-readme-stats.vercel.app/api/pin/?username=numerique-gouv&repo=sites-faciles&cache_seconds=86400&theme=transparent
 
 ## Stats
 
